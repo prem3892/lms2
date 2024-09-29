@@ -1,0 +1,9 @@
+/* .hero-section {
+  background-image: url("/public/random\ bg\ img/coding bg1.jpg");
+} */
+
+.hero-section {
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
